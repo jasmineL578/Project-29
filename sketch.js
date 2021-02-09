@@ -67,7 +67,7 @@ function setup()
    // box17 = new Box(390,155,30,40)
     
     var options = {
-        "density":3.0
+        "density":25
 
     }
     polygon= Bodies.circle(100,300,5,options)

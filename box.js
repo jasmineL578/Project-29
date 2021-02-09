@@ -32,8 +32,18 @@ else{
           
 }
 score(){
-    if (this.visibility < 0 && this.visibility > -1000){
+    if (this.visibility < 0 && this.visibility > -105){
       score++;
     }
     }
 }
+
+
+
+
+   
+
+  
+
+
+
